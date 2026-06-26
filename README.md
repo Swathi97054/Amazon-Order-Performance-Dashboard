@@ -101,7 +101,6 @@ Amazon-Order-Performance-Dashboard
 │   ├── Amazon dataset.csv
 │   └── cleaned Amazon dataset.csv
 │
-<<<<<<< HEAD
 ├── Data_Cleaning.py
 │
 ├── Queries.sql
@@ -109,19 +108,6 @@ Amazon-Order-Performance-Dashboard
 ├── amazon eda.xlsx
 │
 ├── Amazon_Dashboard.pbix 
-=======
-├── python
-│   └── Data_Cleaning.py
-│
-├── sql
-│   └── Queries.sql
-│
-├── excel
-│   └── amazon eda.xlsx
-│
-├── powerbi
-│   └── Amazon_Dashboard.pbix
->>>>>>> 181f622e0e60391b038797014fd26a2825b24795
 │
 ├── reports
 │   ├── Insights_Report.pdf
@@ -134,10 +120,6 @@ Amazon-Order-Performance-Dashboard
 │
 ├── README.md
 ├── .gitignore
-<<<<<<< HEAD
-=======
-└── LICENSE
->>>>>>> 181f622e0e60391b038797014fd26a2825b24795
 ```
 
 ---
