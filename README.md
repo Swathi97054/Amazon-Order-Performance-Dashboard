@@ -101,17 +101,13 @@ Amazon-Order-Performance-Dashboard
 │   ├── Amazon dataset.csv
 │   └── cleaned Amazon dataset.csv
 │
-├── python
-│   └── Data_Cleaning.py
+├── Data_Cleaning.py
 │
-├── sql
-│   └── Queries.sql
+├── Queries.sql
 │
-├── excel
-│   └── amazon eda.xlsx
+├── amazon eda.xlsx
 │
-├── powerbi
-│   └── Amazon_Dashboard.pbix
+├── Amazon_Dashboard.pbix 
 │
 ├── reports
 │   ├── Insights_Report.pdf
@@ -124,7 +120,6 @@ Amazon-Order-Performance-Dashboard
 │
 ├── README.md
 ├── .gitignore
-└── LICENSE
 ```
 
 ---
